@@ -3,7 +3,15 @@
 }
 nav {
   background-color: #c2a878;
+  /* display: flex;
+  justify-content: flex-end; */
 }
 input {
   border-radius: 25px;
 }
+
+/* .navNav {
+  width: 90%;
+  display: flex;
+  justify-content: space-evenly;
+} */
