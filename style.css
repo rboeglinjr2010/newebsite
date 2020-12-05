@@ -3,7 +3,12 @@
 }
 nav {
   background-color: #c2a878;
+  text-align: right;
 }
 input {
   border-radius: 25px;
+}
+
+.topnav {
+  padding: 5px 16px;
 }
