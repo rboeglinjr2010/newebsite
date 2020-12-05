@@ -1,0 +1,9 @@
+* {
+  border: 1px salmon solid;
+}
+nav {
+  background-color: #c2a878;
+}
+input {
+  border-radius: 25px;
+}
