@@ -1,7 +1,7 @@
-* {
+/* * {
   border: 1px salmon solid;
-}
-nav {
+} */
+.topnavbar {
   background-color: #c2a878;
   text-align: right;
   /* display: flex;
@@ -19,3 +19,26 @@ input {
   display: flex;
   justify-content: space-evenly;
 } */
+h1 {
+  display: inline;
+}
+.logo {
+  width: 35%;
+}
+.navlinks {
+  width: 65%;
+  display: flex;
+  justify-content: flex-end;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  margin: 2%;
+}
+.mainnav {
+  padding: 5px;
+}
+.bikeimages {
+  display: flex;
+  justify-content: center;
+}
